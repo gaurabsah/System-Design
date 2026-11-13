@@ -8,7 +8,7 @@ An 8-week plan for a software engineer with about 5 years of experience preparin
 
 ## Syllabus
 
-Week 1Foundations
+Week 1 Foundations
 
 ### Estimation, requirements, and APIs
 
@@ -19,7 +19,7 @@ Week 1Foundations
 
 **Checkpoint:** estimate storage and QPS for a URL shortener from scratch in under 5 minutes.
 
-Week 2Data layer
+Week 2 Data layer
 
 ### Databases, replication, and consistency
 
@@ -31,7 +31,7 @@ Week 2Data layer
 
 **Checkpoint:** justify a database choice for three different workloads and name what you give up in each.
 
-Week 3Caching and async
+Week 3 Caching and async
 
 ### Caches, queues, and event streams
 
@@ -42,7 +42,7 @@ Week 3Caching and async
 
 **Checkpoint:** explain how to prevent duplicate charges across API retries, queue redelivery, and consumer crashes.
 
-Week 4Reliability
+Week 4 Reliability
 
 ### Scaling and failure handling
 
@@ -53,7 +53,7 @@ Week 4Reliability
 
 **Checkpoint:** walk through what happens, step by step, when a downstream service becomes slow.
 
-Week 5Classic designs I
+Week 5 Classic designs I
 
 ### Core problems
 
@@ -65,7 +65,7 @@ Week 5Classic designs I
 
 **Checkpoint:** design each on paper in 40 minutes, then compare against a reference and list what you missed.
 
-Week 6Classic designs II
+Week 6 Classic designs II
 
 ### Read-heavy and real-time systems
 
@@ -77,7 +77,7 @@ Week 6Classic designs II
 
 **Checkpoint:** for each design, name the main bottleneck and two alternatives you rejected, with reasons.
 
-Week 7Advanced
+Week 7 Advanced
 
 ### Harder problems and deep dives
 
@@ -88,7 +88,7 @@ Week 7Advanced
 
 **Checkpoint:** go 10 minutes deep on any one component of any design without notes.
 
-Week 8Mocks
+Week 8 Mocks
 
 ### Timed mock interviews and review
 
